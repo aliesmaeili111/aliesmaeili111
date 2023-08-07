@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am Ali Esmaeili.<br>An intermediate to advanced Python developer.<br>Has team spirit and problem solving skills. <br>As an intern I am eager to work with senior programmers to gain more experience.<br>My goal of working in this field is to design great and efficient websites with other senior team members for the progress of the country as well as its pride.
-
+I am Ali Esmaeili.<br>An intermediate to advanced Python developer.<br>Has team spirit and problem solving skills. <br>As an intern I am eager to work with senior programmers to gain more experience.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/esmaeilii7/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/mwlite/in/ali-esmaeili-%D8%B9%D9%84%DB%8C-%D8%A7%D8%B3%D9%85%D8%A7%D8%B9%DB%8C%D9%84%DB%8C-374094226) 
